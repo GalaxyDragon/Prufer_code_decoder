@@ -9,10 +9,10 @@ Here are some examples of inputs and outputs.
 **output:** ![Alt text](images/1.jpg?raw=true "Title")
 
 **input:** '1 2'\
-**output:** ![Alt text]("images/1 2.jpg?raw=true" "Title")
+**output:** ![Alt text](images/1_2.jpg?raw=true "Title")
 
 **input:** '1 2 1 1 7'\
-**output:** ![Alt text]("images/1 2 1 1 7.jpg?raw=true" "Title")
+**output:** ![Alt text](images/1_2_1_1_7.jpg?raw=true "Title")
 
 **input:** '1 2 1 1 7 3 6 1 4 5 3'\
-**output:** ![Alt text]("images/1 2 1 1 7 3 6 1 4 5 3.jpg?raw=true" "Title")
+**output:** ![Alt text](images/1_2_1_1_7_3_6_1_4_5_3.jpg?raw=true "Title")
