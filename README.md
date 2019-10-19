@@ -24,3 +24,6 @@ Here are some examples of inputs and outputs.
 
 The program is created as part of the "Discrete analysis" course by A.B.Skopenkov at Moscow Institute of Physics and Technology. 
 Website of the course: https://www.mccme.ru/circles/oim/home/discran1314.htm
+
+Author: Berdovskii Alexey
+Date: 20.10.19
