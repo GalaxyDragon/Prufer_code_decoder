@@ -21,3 +21,6 @@ Here are some examples of inputs and outputs.
 **input:** '1 2 1 1 7 3 6 1 4 5 3'\
 **output:** \
 ![Alt text](images/1_2_1_1_7_3_6_1_4_5_3.png?raw=true "Title")
+
+The program is created as part of the "Discrete analysis" course by A.B.Skopenkov at Moscow Institute of Physics and Technology. 
+Website of the course: https://www.mccme.ru/circles/oim/home/discran1314.htm
