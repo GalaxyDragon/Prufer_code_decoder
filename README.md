@@ -7,7 +7,7 @@ Website of the course: https://mipt.ru/education/chairs/dm/education/courses/com
 Other existing related programs:
 https://github.com/skswanke/pruferdecode - a similar implementation in javascript using web technologies \
 https://github.com/skswanke/pruferdecode - an interactive jupyter notebook that implements tree building by code, and code by adjacency matrix. Authors - Akopyan Albert and Mazheika Michael, MIPT 2019 \
-https://gist.github.com/forthright48/f403befb8c12ad18c38f21825ce98af6 - a console program for constructing an adjacency matrix by the code of the proliferator, implementation in C ++. \
+https://gist.github.com/forthright48/f403befb8c12ad18c38f21825ce98af6 - a console program for constructing an adjacency matrix by the code of the proliferator, implementation in C ++. 
 
 
 Here are some examples of inputs and outputs. 
